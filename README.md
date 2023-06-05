@@ -1,8 +1,7 @@
-# Legal Service
+---
+layout: default
+---
 
+Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-
-здесь текст на markdown
-
-
-### eeeeee
+[Link to another page](./another-page.html).
